@@ -44,7 +44,7 @@ export const AboutSection = () => {
           <div className="flex justify-center md:justify-center">
             <div className="p-1 rounded-full bg-gradient-to-r from-pink-600 via-fuchsia-500 to-purple-700 shadow-lg">
               <img
-                src="/public/pasindu.jpg"
+                src="/projects/pasindu.jpg"
                 alt="Pasindu Randula"
                 className="w-64 h-64 md:w-72 md:h-72 rounded-full object-cover border-2 border-white"
               />
