@@ -41,7 +41,7 @@ export const AboutSection = () => {
                 Download CV
               </a>
             </div>
-          <div className="flex justify-center md:justify-center">
+        <div className="flex justify-center md:justify-center">
             <div className="p-1 rounded-full bg-gradient-to-r from-pink-600 via-fuchsia-500 to-purple-700 shadow-lg">
               <img
                 src="/projects/pasindu.jpg"
